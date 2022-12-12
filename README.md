@@ -37,7 +37,7 @@ The following image shows the web application's appearance and functionality pos
 ### Relevant Links
 
 * GitHub repository: https://github.com/Ing3rs/challenge-1-horiseon-accessibility
-* Domain link: 
+* Domain link: https://ing3rs.github.io/challenge-1-horiseon-accessibility/
 
 ---
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
