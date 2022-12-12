@@ -32,11 +32,11 @@ Your website must meet accessibility standards. You can achieve this completing 
 
 The following image shows the web application's appearance and functionality post editing:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/challenge-1-final.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](assets/challenge-1-final.png)
 
 ### Relevant Links
 
-* GitHub repository: https://github.com/Ing3rs/horiseon-accessibility
+* GitHub repository: https://github.com/Ing3rs/challenge-1-horiseon-accessibility
 * Domain link: 
 
 ---
